@@ -2,7 +2,9 @@ Fitness Exercise Classifier with Machine Learning
 This Python project processes accelerometer and gyroscope data from wearable sensors to:
 
 ✅ Automatically classify barbell exercises (bench press, deadlift, overhead press, barbell row, squats)
+
 ✅ Count repetitions in real-time
+
 ✅ Visualize workout patterns for performance analysis
 
 Built using Python and key libraries (pandas, scikit-learn, matplotlib), the system:
